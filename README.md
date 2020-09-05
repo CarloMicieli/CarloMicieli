@@ -95,7 +95,8 @@ fn main() {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [TreniniDotNet](https://github.com/CarloMicieli/TreniniDotNet)
+- 💻 [dotnetcore-clean-architecture](https://github.com/CarloMicieli/dotnetcore-clean-architecture): a sample of clean architecture with .NET core
+- 💻 [actix-web-app](https://github.com/CarloMicieli/actix-web-app): web api with rust using the actix framework
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
