@@ -1,5 +1,7 @@
 # Hello, I am Carlo!
 
+![CodeWars](https://www.codewars.com/users/CarloMicieli/badges/large)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarloMicieli)](https://github.com/ryo-ma/github-profile-trophy)
 
 - **𝗜 𝗮𝗺 𝗮 senior software engineer**
