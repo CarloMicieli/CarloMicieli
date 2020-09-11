@@ -1,6 +1,6 @@
 # Hello, I am Carlo!
 
-![CodeWars](https://www.codewars.com/users/CarloMicieli/badges/large)
+![CodeWars](https://www.codewars.com/users/CarloMicieli/badges/small)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarloMicieli)](https://github.com/ryo-ma/github-profile-trophy)
 
