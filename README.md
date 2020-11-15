@@ -38,8 +38,8 @@ fn main() {
         vec![
             "C".to_owned(),
             "C#".to_owned(),
+            "Java".to_owned(),
             "Rust".to_owned(),
-            "Elm".to_owned(),
             "Scala".to_owned(),
         ],
         vec![
@@ -99,8 +99,7 @@ fn main() {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [dotnetcore-clean-architecture](https://github.com/CarloMicieli/dotnetcore-clean-architecture): a sample of clean architecture with .NET core
-- 💻 [actix-web-app](https://github.com/CarloMicieli/actix-web-app): web api with rust using the actix framework
+- 💻 [spring-boot-24-webmvc](https://github.com/CarloMicieli/spring-boot-24-webmvc): sample web app with Spring boot 2.4
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
