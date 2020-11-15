@@ -68,8 +68,8 @@ fn main() {
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span>Elm</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/elm.svg">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
         <span>Rust</span><br><br><br>
