@@ -82,8 +82,8 @@ fn main() {
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>JetBrains Rider</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg">
+        <span>Intellij Idea</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
