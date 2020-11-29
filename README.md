@@ -99,7 +99,7 @@ fn main() {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [spring-boot-24-webmvc](https://github.com/CarloMicieli/spring-boot-24-webmvc): sample web app with Spring boot 2.4
+- 💻 [spring-trains](https://github.com/CarloMicieli/spring-trains): sample web app with Spring boot 2.4
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
