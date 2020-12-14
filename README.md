@@ -1,11 +1,11 @@
 # Hello, I am Carlo!
 
+![CodeWars](https://www.codewars.com/users/CarloMicieli/badges/small)
+
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻 [spring-trains](https://github.com/CarloMicieli/spring-trains): sample web app with Spring boot 2.4
 - 💻 [my-depot-javafx](https://github.com/CarloMicieli/my-depot-javafx): JavaFX 11 app with kotlin
-
-![CodeWars](https://www.codewars.com/users/CarloMicieli/badges/small)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarloMicieli)](https://github.com/ryo-ma/github-profile-trophy)
 
