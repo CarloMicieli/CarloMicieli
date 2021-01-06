@@ -4,6 +4,7 @@
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
+- 💻 [railists-rs](https://github.com/CarloMicieli/railists-rs): experiments with the **Rust** programming language
 - 💻 [spring-trains](https://github.com/CarloMicieli/spring-trains): sample web app with Spring boot 2.4
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarloMicieli)](https://github.com/ryo-ma/github-profile-trophy)
