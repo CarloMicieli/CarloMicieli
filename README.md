@@ -4,8 +4,8 @@
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [railists-rs](https://github.com/CarloMicieli/railists-rs): experiments with the **Rust** programming language
-- 💻 [spring-trains](https://github.com/CarloMicieli/spring-trains): sample web app with Spring boot 2.4
+- 💻 [railists-rs](https://github.com/CarloMicieli/railists-rs): a small CLI with the **Rust** programming language to manage model railways collections
+- 💻 [trenako](https://github.com/CarloMicieli/trenako): reactive web app with **Kotlin** and Spring boot
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarloMicieli)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -79,10 +79,6 @@ fn main() {
       <td width="25%" align="center">
         <span>Rust</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
-      </td>
-        <td width="25%" align="center">
-        <span>Scala</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/scala.svg">
       </td>
     </tr>
     <tr valign="top">
