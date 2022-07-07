@@ -41,13 +41,13 @@ fn main() {
     let carlo = AboutMe::new(
         vec!["He".to_owned(), "Him".to_owned()],
         vec![
-            "C".to_owned(),
             "C#".to_owned(),
+            "Kotlin".to_owned(),
             "Java".to_owned(),
             "Rust".to_owned(),
-            "Scala".to_owned(),
         ],
         vec![
+            "mountain bike".to_owned(),
             "reading".to_owned(),
             "trekking for dummies".to_owned(),
             "model railways".to_owned(),
@@ -65,12 +65,12 @@ fn main() {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Kotlin</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
       <td width="25%" align="center">
         <span>Java</span><br><br><br>
