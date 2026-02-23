@@ -8,7 +8,7 @@
 - 💻 [consolemania](https://github.com/CarloMicieli/consolemania): a cloud native playground with Spring boot
 - 💻 [trenako](https://github.com/CarloMicieli/trenako): website with rust and actix web for model railways collectors
 
-- **𝗜 𝗮𝗺 𝗮 lead engineer**
+- **𝗜 𝗮𝗺 𝗮 principal engineer**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 ```rust
@@ -64,8 +64,8 @@ fn main() {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <span>Github Copilot</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-copilot.svg">
       </td>
       <td width="25%" align="center">
         <span>Kotlin</span><br><br><br>
