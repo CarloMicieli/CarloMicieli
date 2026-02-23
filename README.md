@@ -8,8 +8,6 @@
 - 💻 [consolemania](https://github.com/CarloMicieli/consolemania): a cloud native playground with Spring boot
 - 💻 [trenako](https://github.com/CarloMicieli/trenako): website with rust and actix web for model railways collectors
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CarloMicieli)](https://github.com/ryo-ma/github-profile-trophy)
-
 - **𝗜 𝗮𝗺 𝗮 lead engineer**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
@@ -102,14 +100,4 @@ fn main() {
     </tr>
   </tbody>
 </table>
-
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=CarloMicieli&show_icons=true&hide_border=true)
-
-## Show ❤️ By Starring My Repos!
-
----
-
- ⭐️ From [munific](https://github.com/munific)
 
